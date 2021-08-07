@@ -68,6 +68,20 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 
 - Contact List (Create, Update, Delete, List, Get) mongodb
 - Task List (Create, Update, Delete, List, Get) Postgresql
+- Learn file uploading
+### Make simple blog app api
+- Stack: Nodejs, Postgresql, REST api
+- Implement user system (authorization and authentication)
+- Categories crud
+- Posts crud and basic searching
+- Implement image uploading for posts
+- Create api docs via [swagger](https://swagger.io/docs/specification/about/)
+## SQL(Postgresql)
+
+## Typescript
+- [Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+
+
 
 
 [dbeaver]: https://dbeaver.io/download/
