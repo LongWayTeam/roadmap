@@ -62,7 +62,7 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 - [url](https://nodejs.org/api/url.html)
 - [util](https://nodejs.org/api/util.html)
 
-## Skills #5 - Express.js
+## Express.js
 
 #### You should use postgresql or mongodb as a storage, and mongoose as mongodb odm or use typeorm for postgresql/mongodb
 
