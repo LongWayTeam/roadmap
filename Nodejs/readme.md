@@ -99,6 +99,37 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 - [Namespaces](https://www.typescriptlang.org/docs/handbook/namespaces.html)
 - [Project Configuration](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 
+# Websockets & Realtime applications
+- [Real Time Computing](https://en.wikipedia.org/wiki/Real-time_computing)
+
+# Build apis
+
+## gRPC protobuffers
+
+## GraphQL
+
+
+# Testing
+
+## Unit testing
+## Integration testing
+
+# Data caching & searching optimizations
+
+## Redis
+## Elastic search
+
+# Microservices
+
+# Recomended topics
+- OOP
+- Clean code
+- Design patterns
+- Clean architecture
+# Basic Devops skills
+## Deployment methods
+## Docker
+
 
 [dbeaver]: https://dbeaver.io/download/
 [ubuntu]: https://ubuntu.com/
