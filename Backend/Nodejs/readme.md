@@ -115,7 +115,12 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 ## Integration testing
 
 # Data caching & searching optimizations
-
+- [Database Caching](https://bluzelle.com/blog/things-you-should-know-about-database-caching)
+- [Caching Strategies and How to Choose the Right One](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/)
+- [14 Caching Data Sources](https://docs.oracle.com/cd/E18686_01/coh.37/e18677/cache_rtwtwbra.htm#COHDG5177)
+- [Caching strategies to speed up your API](https://blog.logrocket.com/caching-strategies-to-speed-up-your-api/)
+- [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
+- 
 ## Redis
 ## Elastic search
 
