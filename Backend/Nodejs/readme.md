@@ -120,8 +120,13 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 - [14 Caching Data Sources](https://docs.oracle.com/cd/E18686_01/coh.37/e18677/cache_rtwtwbra.htm#COHDG5177)
 - [Caching strategies to speed up your API](https://blog.logrocket.com/caching-strategies-to-speed-up-your-api/)
 - [Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
-- 
+- [High‑Performance Caching with NGINX and NGINX Plus](https://www.nginx.com/blog/nginx-high-performance-caching/)
 ## Redis
+- [Redis Commands](https://redis.io/commands)
+- [Secondary indexing with Redis](https://redis.io/topics/indexeshttps://redis.io/topics/indexes)
+- [Using pipelining to speedup Redis queries](https://redis.io/topics/pipelining)
+- [Pub/Sub](https://redis.io/topics/pubsub)
+- [EXPIRE key seconds NX|XX|GT|LT](https://redis.io/commands/expire)
 ## Elastic search
 
 # Microservices
