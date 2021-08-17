@@ -101,6 +101,14 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 
 # Websockets & Realtime applications
 - [Real Time Computing](https://en.wikipedia.org/wiki/Real-time_computing)
+- [What are Real Time Apps?](https://www.developer.com/database/what-makes-a-real-time-app/)
+- [5 ways to build real-time apps with JavaScript](https://www.freecodecamp.org/news/5-ways-to-build-real-time-apps-with-javascript-5f4d8fe259f7/)
+- [Websockets](https://en.wikipedia.org/wiki/WebSocket)
+- [WS package](https://github.com/websockets/ws)
+## Socket IO
+- [SocketIO](https://socket.io/)
+- [SocketIO server](https://socket.io/docs/v4/server-api/#Server)
+- [SocketIO Namespace](https://socket.io/docs/v4/server-api/#Namespace)
 
 # Build apis
 
